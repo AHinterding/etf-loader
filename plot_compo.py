@@ -1,5 +1,6 @@
-from etf_mapper.compo_mapper import CompoMapper
 import datetime as dt
+
+from etf_mapper import CompoMapper
 
 if __name__ == '__main__':
     mapper = CompoMapper()

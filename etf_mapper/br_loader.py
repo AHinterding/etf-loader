@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from loguru import logger
 
 
-class BlackRockLoader(object):
+class ISharesLoader(object):
     """
     A supporting class to manage and sort all data related to retrieving details on ETF as issued by iShares.
 
