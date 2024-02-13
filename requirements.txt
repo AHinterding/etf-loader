@@ -1,6 +1,6 @@
 pandas==1.0.5
 loguru==0.5.1
 beautifulsoup4==4.9.1
-requests==2.24.0
+requests==2.31.0
 xlrd==1.2.0
 plotly==4.8.1
